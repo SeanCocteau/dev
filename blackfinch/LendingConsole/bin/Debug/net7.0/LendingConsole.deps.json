@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LendingConsole/1.0.0": {
+        "dependencies": {
+          "LendingBusiness": "1.0.0"
+        },
+        "runtime": {
+          "LendingConsole.dll": {}
+        }
+      },
+      "LendingBusiness/1.0.0": {
+        "runtime": {
+          "LendingBusiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LendingConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LendingBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

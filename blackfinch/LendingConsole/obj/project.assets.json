@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "LendingBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LendingBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LendingBusiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LendingBusiness/1.0.0": {
+      "type": "project",
+      "path": "../LendingBusiness/LendingBusiness.csproj",
+      "msbuildProject": "../LendingBusiness/LendingBusiness.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "LendingBusiness >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\dev\\blackfinch\\LendingConsole\\LendingConsole.csproj",
+      "projectName": "LendingConsole",
+      "projectPath": "C:\\dev\\blackfinch\\LendingConsole\\LendingConsole.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\blackfinch\\LendingConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\dev\\blackfinch\\LendingBusiness\\LendingBusiness.csproj": {
+              "projectPath": "C:\\dev\\blackfinch\\LendingBusiness\\LendingBusiness.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\dev\blackfinch\LendingBusiness\bin\Debug\net7.0\LendingBusiness.deps.json
+C:\dev\blackfinch\LendingBusiness\bin\Debug\net7.0\LendingBusiness.dll
+C:\dev\blackfinch\LendingBusiness\bin\Debug\net7.0\LendingBusiness.pdb
+C:\dev\blackfinch\LendingBusiness\obj\Debug\net7.0\LendingBusiness.csproj.AssemblyReference.cache
+C:\dev\blackfinch\LendingBusiness\obj\Debug\net7.0\LendingBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\blackfinch\LendingBusiness\obj\Debug\net7.0\LendingBusiness.AssemblyInfoInputs.cache
+C:\dev\blackfinch\LendingBusiness\obj\Debug\net7.0\LendingBusiness.AssemblyInfo.cs
+C:\dev\blackfinch\LendingBusiness\obj\Debug\net7.0\LendingBusiness.csproj.CoreCompileInputs.cache
+C:\dev\blackfinch\LendingBusiness\obj\Debug\net7.0\LendingBusiness.dll
+C:\dev\blackfinch\LendingBusiness\obj\Debug\net7.0\refint\LendingBusiness.dll
+C:\dev\blackfinch\LendingBusiness\obj\Debug\net7.0\LendingBusiness.pdb
+C:\dev\blackfinch\LendingBusiness\obj\Debug\net7.0\ref\LendingBusiness.dll
